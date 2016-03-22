@@ -1,8 +1,19 @@
+.outside-border {
+  border: solid 5px #808080;
+  margin: 50px 0 50px 50px;
+  background-image: url("http://images.all-free-download.com/images/graphiclarge/mathematics_physics_formulas_vector_287705.jpg")
+
+}
+
+
+
+
 .border {
   width: 400px;
   height: 400px;
   border: solid 5px #336699;
-  background-color: lightblue;
+  background-image: url(http://demilked.uuuploads.com/free-grunge-backgrounds-textures/free-grunge-textures-backgrounds-14.jpg);
+
   margin: 75px 10px 100px 35px;
   padding: 10px 10px 10px 10px;
   // float: inherit;
@@ -27,6 +38,7 @@ input {
 }
 
 .answer {
+  background-color: white;
   padding: 0 50px 10px 10px;
   margin: 10px 0 0 10px;
   border: solid 3px #336699;
@@ -36,8 +48,10 @@ input {
   float: right;
 }
 button {
+  height: 50px;
+  width: 50px;
   border: solid 3px #336699;
-  margin: 0px 30px 0px 0px;
+  margin: 0px 5px 0px 0px;
   float: right;
 
 }
