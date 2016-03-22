@@ -1,4 +1,6 @@
 .outside-border {
+  height: 600px;
+  width: 600px;
   border: solid 5px #808080;
   margin: 50px 0 50px 50px;
   background-image: url("http://images.all-free-download.com/images/graphiclarge/mathematics_physics_formulas_vector_287705.jpg"); }
@@ -8,7 +10,7 @@
   height: 400px;
   border: solid 5px #336699;
   background-image: url(http://demilked.uuuploads.com/free-grunge-backgrounds-textures/free-grunge-textures-backgrounds-14.jpg);
-  margin: 75px 10px 100px 35px;
+  margin: 75px 10px 100px 75px;
   padding: 10px 10px 10px 10px; }
 
 h1 {
@@ -17,6 +19,9 @@ h1 {
   font-weight: bold;
   text-shadow: 5px 5px 5px black;
   text-align: center; }
+
+.value {
+  margin-left: 20px; }
 
 label {
   font-size: 25px;
@@ -36,7 +41,7 @@ input {
   float: left; }
 
 .buttons {
-  float: right; }
+  float: left; }
 
 button {
   height: 50px;
@@ -46,6 +51,8 @@ button {
   float: right; }
 
 .outside-border {
+  height: 600px;
+  width: 600px;
   border: solid 5px #808080;
   margin: 50px 0 50px 50px;
   background-image: url("http://images.all-free-download.com/images/graphiclarge/mathematics_physics_formulas_vector_287705.jpg"); }
@@ -55,7 +62,7 @@ button {
   height: 400px;
   border: solid 5px #336699;
   background-image: url(http://demilked.uuuploads.com/free-grunge-backgrounds-textures/free-grunge-textures-backgrounds-14.jpg);
-  margin: 75px 10px 100px 35px;
+  margin: 75px 10px 100px 75px;
   padding: 10px 10px 10px 10px; }
 
 h1 {
@@ -64,6 +71,9 @@ h1 {
   font-weight: bold;
   text-shadow: 5px 5px 5px black;
   text-align: center; }
+
+.value {
+  margin-left: 20px; }
 
 label {
   font-size: 25px;
@@ -83,7 +93,7 @@ input {
   float: left; }
 
 .buttons {
-  float: right; }
+  float: left; }
 
 button {
   height: 50px;
