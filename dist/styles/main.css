@@ -5,29 +5,32 @@ body {
   width: 500px;
   border: solid 5px #336699;
   background-color: lightblue;
-  margin: 100px 100px 100px 100px;
-  float: inherit; }
+  margin: 100px 100px 100px 100px; }
 
 h1 {
   font-size: 50px;
   color: #336699;
   font-weight: bold;
-  text-shadow: 5px 5px 5px black;
-  text-align: center; }
+  margin: 10px 10px 10px 10px;
+  text-shadow: 5px 5px 5px black; }
 
 label {
   font-size: 25px;
   text-shadow: 1px 1px 1px black;
   color: #336699;
-  margin-left: 80px; }
+  margin-left: 10px; }
 
 input {
   border: solid 3px #336699;
-  margin-left: 80px; }
+  margin-left: 10px; }
+
+.answer {
+  margin: 10px 10px 10px 10px;
+  border: solid 3px #336699; }
 
 button {
   border: solid 3px #336699;
-  margin: 5px 0 5px 5px; }
+  margin: 5px 5px 5px 5px; }
 
 body {
   background-image: url("http://images.all-free-download.com/images/graphiclarge/mathematics_physics_formulas_vector_287705.jpg"); }
@@ -36,26 +39,29 @@ body {
   width: 500px;
   border: solid 5px #336699;
   background-color: lightblue;
-  margin: 100px 100px 100px 100px;
-  float: inherit; }
+  margin: 100px 100px 100px 100px; }
 
 h1 {
   font-size: 50px;
   color: #336699;
   font-weight: bold;
-  text-shadow: 5px 5px 5px black;
-  text-align: center; }
+  margin: 10px 10px 10px 10px;
+  text-shadow: 5px 5px 5px black; }
 
 label {
   font-size: 25px;
   text-shadow: 1px 1px 1px black;
   color: #336699;
-  margin-left: 80px; }
+  margin-left: 10px; }
 
 input {
   border: solid 3px #336699;
-  margin-left: 80px; }
+  margin-left: 10px; }
+
+.answer {
+  margin: 10px 10px 10px 10px;
+  border: solid 3px #336699; }
 
 button {
   border: solid 3px #336699;
-  margin: 5px 0 5px 5px; }
+  margin: 5px 5px 5px 5px; }
