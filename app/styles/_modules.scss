@@ -1,10 +1,30 @@
+.border {
+  width: 500px;
+  border: solid 5px #336699;
+  background-color: lightblue;
+  margin: 100px 100px 100px 100px;
+  float: inherit;
+}
+
 h1 {
   font-size: 50px;
   color: #336699;
   font-weight: bold;
   text-shadow:5px 5px 5px black;
+  text-align: center;
 }
 label {
   font-size: 25px;
+  text-shadow:1px 1px 1px black;
   color: #336699;
+  margin-left: 80px;
+}
+input {
+  border: solid 3px #336699;
+  margin-left: 80px;
+}
+button {
+  border: solid 3px #336699;
+  margin: 5px 0 5px 5px;
+  
 }
