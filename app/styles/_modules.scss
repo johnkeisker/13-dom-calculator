@@ -1,8 +1,10 @@
 .border {
-  width: 500px;
+  width: 400px;
+  height: 400px;
   border: solid 5px #336699;
   background-color: lightblue;
-  margin: 100px 100px 100px 100px;
+  margin: 75px 10px 100px 35px;
+  padding: 10px 10px 10px 10px;
   // float: inherit;
 }
 
@@ -10,9 +12,8 @@ h1 {
   font-size: 50px;
   color: #336699;
   font-weight: bold;
-  margin: 10px 10px 10px 10px;
   text-shadow:5px 5px 5px black;
-
+  text-align: center;
 }
 label {
   font-size: 25px;
@@ -26,12 +27,16 @@ input {
 }
 
 .answer {
-  // padding-bottom: 50px;
-  margin: 10px 10px 10px 10px;
+  padding: 0 50px 10px 10px;
+  margin: 10px 0 0 10px;
   border: solid 3px #336699;
+  float: left;
+}
+.buttons {
+  float: right;
 }
 button {
   border: solid 3px #336699;
   margin: 5px 5px 5px 5px;
-  // float: right;
+
 }
